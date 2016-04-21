@@ -11,10 +11,11 @@ Bookmarks
 
 - Styleguides
   - [Dropbox](https://github.com/dropbox/css-style-guide)
+  - [Khan](https://github.com/Khan/style-guides)
   - [Locaweb](https://github.com/suuuzi/webdev-bookmarks.git)
   - [Netshoes](https://github.com/netshoes/styleguide)
   - [Styleguides.io](styleguides.io)
-
+  
 
 - Tools
   - [Grunt](http://gruntjs.com/). Javascript Task Runner.
